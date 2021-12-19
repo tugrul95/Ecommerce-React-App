@@ -1,1 +1,1 @@
-my-store-ecommerce.netlify.app
+https://my-store-ecommerce.netlify.app/
